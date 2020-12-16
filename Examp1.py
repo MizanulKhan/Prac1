@@ -1,3 +1,5 @@
+
+#Its coding for Restaurant's Geust Examaple
 guest_list = ['Ibtihaj', 'Jumaimah', 'Ahil']
 masg = 'Please join my diner party'
 #Give the name in three lines
